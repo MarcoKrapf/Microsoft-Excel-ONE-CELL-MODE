@@ -6,4 +6,4 @@ This Add-in activates the MICROSOFT EXCEL ONE CELL MODE (also called FLEUERER MO
 ##Version history
 
 ### Version 1.0 (12 March 2017)
-* Coded and published on urgent request for a highly esteemed colleague who has the steady desire to merge cells
+* Coded and published on urgent request for a highly esteemed colleague who has the steady desire for merging cells
