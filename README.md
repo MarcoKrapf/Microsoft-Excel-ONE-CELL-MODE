@@ -3,7 +3,7 @@
 
 This Add-in activates the MICROSOFT EXCEL ONE CELL MODE (also called FLEUERER MODE or ABSOLUTE BEGINNER MODE). The current worksheet will be cleared. All cells will be merged. There will be only one cell left (A1). There is absolutely no need to do this. Simply stupid.
 
-##Version history
+## Version history
 
 ### Version 1.0 (12 March 2017)
 * Coded and published on urgent request for a highly esteemed colleague who has the steady desire for merging cells
