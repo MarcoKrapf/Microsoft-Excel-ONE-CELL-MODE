@@ -1,0 +1,15 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+  <ribbon startFromScratch="false">
+    <tabs>
+      <tab id="tabONECELL" label="Absolute Beginner Add-ins">
+        <group id="groupONECELL" label="The most useless Add-in ever.">
+
+          <button id="btnONECELL10" label="ONE CELL MODE" size="large" 
+		onAction="OneCellMode" image="onecell"
+		screentip="MICROSOFT EXCEL ONE CELL MODE (v1.0)"
+		supertip="This Add-in activates the MICROSOFT EXCEL ONE CELL MODE (also called FLEUERER MODE or ABSOLUTE BEGINNER MODE). The current worksheet will be cleared. All cells will be merged. There will be only one cell left (A1). There is absolutely no need to do this. Simply stupid."/>
+	 </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
